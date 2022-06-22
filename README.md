@@ -1,2 +1,2 @@
 # Machine-Learning-Training
-Assignments and Tasks
+Day wise Assignments and Tasks
